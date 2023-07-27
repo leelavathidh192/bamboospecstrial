@@ -1,6 +1,6 @@
 version: 2
 plan:
-  project-key: TIS
+  project-key: SPEC
   key: MARS
   name: Get to Mars
 stages:
