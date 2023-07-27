@@ -1,0 +1,11 @@
+version: 2
+plan:
+  project-key: TIS
+  key: MARS
+  name: Get to Mars
+stages:
+  - Rocket assembly:
+      - Gather parts
+Gather parts:
+  tasks:
+    - script: echo 'OK'
